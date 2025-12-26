@@ -5,6 +5,7 @@ some description
 ##
 Hello there;
 
+This repository helped me in understanding github.
 
 ## Local Development
 
